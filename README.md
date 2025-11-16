@@ -183,8 +183,6 @@ Tell them:
 Install Ollama → Pull a model → Run NebulaX → Choose Offline Mode
 ```
 
-Done.
-
 ---
 
 
