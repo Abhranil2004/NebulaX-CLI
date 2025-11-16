@@ -92,7 +92,101 @@ Exit anytime with:
 You > exit
 ```
 
+# 🌐 **ONLINE MODE (Default)**
+
+To use NebulaX with the Gemini API:
+
+### 1. Create a Gemini API Key
+
+Get it from:
+
+👉 [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
+
+### 2. Run NebulaX
+
+NebulaX will automatically ask:
+
+* Enter API Key
+* Save / Use once / Update / Delete
+
+After that, the online engine works instantly.
+
 ---
+
+# 🟩 **OFFLINE MODE (NO INTERNET REQUIRED)**
+
+NebulaX includes a full offline mode using **Ollama**, allowing complete usage without internet.
+
+---
+
+# 🔧 **Step-by-Step Offline Setup**
+
+### ✅ Step 1 — Install Ollama
+
+Download from:
+
+👉 [https://ollama.com/download](https://ollama.com/download)
+
+### ✅ Step 2 — Confirm installation
+
+```bash
+ollama --version
+```
+
+### ✅ Step 3 — Pull a Local Model
+
+NebulaX uses **phi3** by default:
+
+```bash
+ollama pull phi3
+```
+
+You may choose other models:
+
+```bash
+ollama pull llama3
+ollama pull mistral
+```
+
+### ✅ Step 4 — Run NebulaX in Offline Mode
+
+```bash
+nebulax
+```
+
+Select:
+
+```
+2️⃣  Offline (Local LLM via Ollama)
+```
+
+NebulaX now works fully offline.
+
+---
+
+# 🧠 **Offline Mode Supports:**
+
+✔ Chat
+✔ Explanations
+✔ Notes
+✔ General AI assistance
+✔ No internet required
+✔ Uses your local system resources (CPU/GPU)
+
+---
+
+# 🎯 **If User Wants Offline Only**
+
+Tell them:
+
+```
+Install Ollama → Pull a model → Run NebulaX → Choose Offline Mode
+```
+
+Done.
+
+---
+
 
 ## 🔑 API Key (Google Gemini)
 
