@@ -25,6 +25,7 @@ It runs directly in your terminal and helps you with coding, explanations, writi
 ## 🖼 NebulaX Screenshots
 
 ### 🔹 CLI Interface
+![NebulaX CLI](https://github.com/Abhranil2004/NebulaX-CLI/blob/general/screenshort/4.png)<br>
 ![NebulaX CLI](https://github.com/Abhranil2004/NebulaX-CLI/blob/general/screenshort/1.png)<br>
 ![NebulaX CLI](https://github.com/Abhranil2004/NebulaX-CLI/blob/general/screenshort/2.png)<br>
 ![NebulaX CLI](https://github.com/Abhranil2004/NebulaX-CLI/blob/general/screenshort/3.png)
